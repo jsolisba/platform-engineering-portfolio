@@ -49,6 +49,33 @@ This repository demonstrates how I approach real-world Platform Engineering chal
 | High Availability | ⏳ Planned |
 | Architecture Blueprints | ⏳ Planned |
 
+## 🔥 Production Engineering Case Studies
+
+These case studies document real-world production troubleshooting,
+migration, security hardening, and platform engineering scenarios.
+
+| Case Study | Area | Focus |
+|---|---|---|
+| AWS ALB / WordPress 502 | AWS / Reliability | Production troubleshooting |
+| Odoo / PostgreSQL Connectivity | Security / Database | Incident response |
+| RDS/Aurora MariaDB Migration | AWS / DR | Migration and rollback |
+| EKS FastAPI AI Platform | Kubernetes / AI | Platform architecture |
+| Cloudflare WAF Hardening | Security | Controlled production change |
+
+Each case study documents:
+
+- Problem
+- Impact
+- Initial hypotheses
+- Evidence
+- Root cause
+- Mitigation
+- Permanent fix
+- Validation
+- Remaining risk
+- Lessons learned
+
+
 ---
 
 ## 🛠️ Technologies
